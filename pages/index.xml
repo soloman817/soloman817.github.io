@@ -19,7 +19,8 @@
       <guid>https://soloman817.github.io/pages/my-first-post/</guid>
       <description>Hello world!
 Need to check how to handle images.
-Nice!</description>
+Nice!
+val a = 1 val b = 2 println(s&amp;#34;${a+b}&amp;#34;) </description>
     </item>
     
   </channel>
