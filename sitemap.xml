@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://soloman817.github.io/categories/</loc>
+    <loc>https://soloman817.github.io/posts/2020/02/first-post/</loc>
+    <lastmod>2020-02-16T12:11:26+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://soloman817.github.io/</loc>
+    <lastmod>2020-02-16T12:11:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soloman817.github.io/posts/</loc>
+    <lastmod>2020-02-16T12:11:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soloman817.github.io/categories/</loc>
   </url>
   
   <url>
