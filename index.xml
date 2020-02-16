@@ -6,39 +6,9 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 23:39:25 +0100</lastBuildDate>
     
 	<atom:link href="https://soloman817.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Third Post</title>
-      <link>https://soloman817.github.io/posts/third-post/</link>
-      <pubDate>Sat, 15 Feb 2020 23:39:25 +0100</pubDate>
-      
-      <guid>https://soloman817.github.io/posts/third-post/</guid>
-      <description>Hello world!
-Now testing a picture!
-Can it handle this?</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://soloman817.github.io/posts/second-post/</link>
-      <pubDate>Sat, 15 Feb 2020 23:38:54 +0100</pubDate>
-      
-      <guid>https://soloman817.github.io/posts/second-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://soloman817.github.io/posts/first-post/</link>
-      <pubDate>Sat, 15 Feb 2020 23:37:20 +0100</pubDate>
-      
-      <guid>https://soloman817.github.io/posts/first-post/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
